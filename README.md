@@ -6,4 +6,4 @@
 This is a project i did as part of the certification program of IBM.
 
 * Data was taken from Chicago census, Chicago public schools and Chicago crime data.
-* This project is focused in SQL with python and DML statements
+* This project is focused in SQL with python and DML statements using IBM databases

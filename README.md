@@ -15,7 +15,7 @@ This is a project I did as part of the portfolio.
 * Data was taken from The CIA World of Factbook 2015.
 * In this project I connected to a database and used SQL to create queries that helped me reach a conclusion.
 
-# [Project 3: AdventureWorks2019 Project](https://github.com/rafaelanguiano/PORTFOLIO_RAFAEL/blob/0f128d52c9c3e15317fd40f83e3f07c0e75455c3/AdventureWorks_Rafael_Proyect4.ipynb)
+# [Project 3: AdventureWorks2019 Project](https://github.com/rafaelanguiano/PORTFOLIO_RAFAEL/blob/19a024735fe829c1c6f46b922a47874f2bec2c9b/AdventureWorks_Rafael_Proyect3.ipynb)
 
 This is a project I did as part of the portfolio.
 

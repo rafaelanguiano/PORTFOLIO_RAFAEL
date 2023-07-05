@@ -22,4 +22,4 @@ This is a project I did as part of the portfolio.
 * This project was made thanks to Microsoft SQL Server Management Studio where I stored this database and obtained the results.
 * In this project, I implemented more advanced and complex SQL queries like Sub Queries, Window Functions, Joins, and Common Table Expressions.
 * To see the dashboard of this project click the following link:
-##[Rafael Anguiano AdventureWorks Sales Dashboard](https://public.tableau.com/app/profile/rafael.anguiano/viz/AdventureWorksSalesDashboard_16879957530170/Dashboard1)
+## [Rafael Anguiano AdventureWorks Sales Dashboard](https://public.tableau.com/app/profile/rafael.anguiano/viz/AdventureWorksSalesDashboard_16879957530170/Dashboard1)
